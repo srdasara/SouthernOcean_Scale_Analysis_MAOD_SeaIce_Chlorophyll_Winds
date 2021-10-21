@@ -18,7 +18,7 @@ Marine Aerosol Optical Depth:
 ### Time-series for all variables across entire grid:
 ![TimeSeries_openoceanincluded](https://user-images.githubusercontent.com/37392984/138309732-623f6237-a553-49ca-a0c4-d2528c995a2e.png)
 
-### Significant Spatial Correlation:
+### Significant Seasonal Spatial Correlation maps:
 
 ![chlorophyll & sea ice Spatial Correlation (winter season not included due to missing seasonal data](https://user-images.githubusercontent.com/37392984/138309258-b09ed457-bba1-40f8-b117-f536d0eb5242.png)
 
@@ -26,5 +26,6 @@ Marine Aerosol Optical Depth:
 
 ![Updated_MOD_WIND_Correlation_1_1](https://user-images.githubusercontent.com/37392984/138309634-c33131ed-08f5-4c67-8009-907fc04150b9.png)
 
-## Significance testing:
+
+### Significance testing:
 ![Multiple_Comparison_Plot_KruskalWallis](https://user-images.githubusercontent.com/37392984/138309810-3b9bf754-da78-4661-bbfa-7dd288a9b61f.png)

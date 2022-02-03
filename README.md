@@ -1,5 +1,5 @@
 # Southern Ocean-Scale Analysis
-Here I've compiled my code for some preliminary data analysis on southern ocean scale variables, including marine aerosol optical depth (MAOD), depolarization ratio (sea ice), chlorophyll-a concentration, and wind speed. This research is still in the works, but what is interesting is that spatial clustering of MAOD & sea ice, MAOD & wind speed, and sea ice & chlorophyll-_a_ concentration is significant. More work to follow! 
+Here I've compiled my code for some preliminary data analysis on southern ocean scale variables, including marine aerosol optical depth (MAOD), depolarization ratio (sea ice), chlorophyll-a concentration, and wind speed. This research is still in the works, but what is interesting is that the spatial clustering of MAOD & sea ice, MAOD & wind speed, and sea ice & chlorophyll-_a_ concentration is significant. More work to follow! 
 
 ### Seasonal Climatology to show spatial patterns:
 Chlorophyll-_a_ concentration:
